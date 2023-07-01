@@ -1,5 +1,7 @@
+import TextEditor from "./TextEditor";
+
 function App() {
-  return <>opop</>;
+  return <TextEditor />;
 }
 
 export default App;
