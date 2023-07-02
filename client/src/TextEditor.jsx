@@ -18,5 +18,5 @@ export default function TexEditor() {
     };
   }, []);
 
-  return <div id="container" ref={containerRef}></div>;
+  return <div className="container" ref={containerRef}></div>;
 }
